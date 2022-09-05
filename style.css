@@ -1,0 +1,31 @@
+.container{
+    margin-bottom: 100px;
+}
+.buy{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 5px;
+    margin: 3px;
+    padding: 5px;
+}
+.carousel-item{
+    margin: 20px 40px;
+    padding: 20px;
+}
+.back{
+    background-color: darkcyan;
+    border-radius: 10px;
+}
+.price{
+    color: darkred;
+}
+.color{
+    color: rgb(223, 208, 4);
+    text-decoration: none;
+}
+.card{
+    padding: 10px 10px;
+    margin: 20px;
+    border: none;
+    box-shadow: 8px 10px 20px lightgrey;
+}
