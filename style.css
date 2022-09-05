@@ -29,3 +29,6 @@
     border: none;
     box-shadow: 8px 10px 20px lightgrey;
 }
+.center{
+    justify-content: center;
+}
